@@ -1,0 +1,33 @@
+SETCOLOR(c->lightmode.colors[0],0xEE,0xE8,0xD5); // background: dark white
+SETCOLOR(c->lightmode.colors[1],0xDC,0x32,0x2F); // dark red
+SETCOLOR(c->lightmode.colors[2],0x85,0x99,0x00); // dark green
+SETCOLOR(c->lightmode.colors[3],0xB5,0x89,0x00); // dark yellow
+SETCOLOR(c->lightmode.colors[4],0x26,0x8B,0xD2); // dark blue
+SETCOLOR(c->lightmode.colors[5],0xD3,0x36,0x82); // dark magenta
+SETCOLOR(c->lightmode.colors[6],0x2A,0xA1,0x98); // dark cyan
+SETCOLOR(c->lightmode.colors[7],0x07,0x36,0x42); // dark white: background
+SETCOLOR(c->lightmode.colors[8],0xFD,0xF6,0xE3); // bright black: foreground
+SETCOLOR(c->lightmode.colors[9],0xCB,0x4B,0x16); // bright red
+SETCOLOR(c->lightmode.colors[10],0x93,0xA1,0xA1); // bright green: bright cyan
+SETCOLOR(c->lightmode.colors[11],0x83,0x94,0x96); // bright yellow: bright blue
+SETCOLOR(c->lightmode.colors[12],0x65,0x7B,0x83); // bright blue: bright yellow
+SETCOLOR(c->lightmode.colors[13],0x6C,0x71,0xC4); // bright magenta
+SETCOLOR(c->lightmode.colors[14],0x58,0x6E,0x75); // bright cyan: bright green
+SETCOLOR(c->lightmode.colors[15],0x00,0x2B,0x36); // foreground: bright black
+
+SETCOLOR(c->darkmode.colors[0],0x07,0x36,0x42); // background
+SETCOLOR(c->darkmode.colors[1],0xDC,0x32,0x2F); // dark red
+SETCOLOR(c->darkmode.colors[2],0x85,0x99,0x00); // dark green
+SETCOLOR(c->darkmode.colors[3],0xB5,0x89,0x00); // dark yellow
+SETCOLOR(c->darkmode.colors[4],0x26,0x8B,0xD2); // dark blue
+SETCOLOR(c->darkmode.colors[5],0xD3,0x36,0x82); // dark magenta
+SETCOLOR(c->darkmode.colors[6],0x2A,0xA1,0x98); // dark cyan
+SETCOLOR(c->darkmode.colors[7],0xEE,0xE8,0xD5); // dark white
+SETCOLOR(c->darkmode.colors[8],0x00,0x2B,0x36); // bright black
+SETCOLOR(c->darkmode.colors[9],0xCB,0x4B,0x16); // bright red
+SETCOLOR(c->darkmode.colors[10],0x58,0x6E,0x75); // bright green
+SETCOLOR(c->darkmode.colors[11],0x65,0x7B,0x83); // bright yellow
+SETCOLOR(c->darkmode.colors[12],0x83,0x94,0x96); // bright blue
+SETCOLOR(c->darkmode.colors[13],0x6C,0x71,0xC4); // bright magenta
+SETCOLOR(c->darkmode.colors[14],0x93,0xA1,0xA1); // bright cyan
+SETCOLOR(c->darkmode.colors[15],0xFD,0xF6,0xE3); // foreground
